@@ -106,7 +106,7 @@ Besides, install the libraries needed for audio processing
 * [4. Compare 2 images](Labs/4_Image_comparison_with_GPT_4o.ipynb)
 * [5.1 Build a Multimodal index for Image serch](Labs/5_1_multimodal_index_setup.ipynb)
 * [5.2 Explore Multimodal index for Image serch](Labs/5_1_multimodal_index_setup.ipynb)
-* [6. Explore Real-time audio capabilities of Azure OpenAI](https://github.com/sallyluong-msft/AOAI_Samples/tree/main/realtime-assistant-support)
+* [6. Explore Real-time audio capabilities of Azure OpenAI](https://github.com/JennyPopovaOrg/AOAI-Realtime-Audio)
 
 
 
